@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "live ",
+      "description": "i am live",
+      "id": 1
+    },
+    {
+      "title": "ramez",
+      "description": "ramez is live",
+      "id": 2
+    },
+    {
+      "title": "live 3",
+      "description": "yaay",
+      "id": 3
+    },
+    {
+      "title": "new",
+      "description": "again",
+      "userId": "112828411673566774844",
+      "id": 7
+    },
+    {
+      "title": "this is a new stream",
+      "description": "moded again",
+      "userId": "112828411673566774844",
+      "id": 8
+    }
+  ]
+}
