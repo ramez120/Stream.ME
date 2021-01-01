@@ -17,7 +17,7 @@ class StreamList extends React.Component {
             <Media as="li">
               <CameraAltIcon style={{ color: "cadetblue", fontSize: "50px" }} />
               <Media.Body className="mx-3 ">
-                <h5>{stream.title}</h5>
+               <Link to = {`/streams/${stream.id}`}><h5>{stream.title}</h5></Link> 
                 <p>{stream.description}</p>
               </Media.Body>
             </Media>
