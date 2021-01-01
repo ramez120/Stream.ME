@@ -1,0 +1,19 @@
+.reformed-link{
+    text-decoration: none !important;
+    
+    color: cadetblue !important;
+    font-family: 'Audiowide', cursive;
+
+}
+.reformed-link:hover{
+    text-decoration: none !important;
+    color: cadetblue;
+    font-family: 'Audiowide', cursive;
+
+
+}
+.enlarged{
+  font-size: larger;
+  display: flex !important;
+  align-items: center;
+}

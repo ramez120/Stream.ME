@@ -1,0 +1,28 @@
+.d-right {
+  display: flex ;
+  justify-content: flex-end;
+
+}
+.d-left{
+    display: flex ;
+
+}
+
+.create-link {
+  text-decoration: none !important;
+  color: cadetblue !important;
+}
+.create-link :hover {
+  text-decoration: none !important;
+  color: cadetblue !important;
+}
+.button-link{
+    text-decoration: none !important;
+    color : black !important
+}
+.button-link-two{
+  text-decoration: none !important;
+  color : white !important
+}
+
+

@@ -1,0 +1,17 @@
+.google-login{
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.google-login img {
+    height: 20px ;
+    margin-left: 5px;
+}
+.hide{
+    display: none ;
+}
+.d-fex{
+    display: flex;
+    justify-content: center;
+}
