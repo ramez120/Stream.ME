@@ -17,15 +17,9 @@
     },
     {
       "title": "new",
-      "description": "again",
+      "description": "this is the newest stream",
       "userId": "112828411673566774844",
-      "id": 7
-    },
-    {
-      "title": "this is a new stream",
-      "description": "moded again",
-      "userId": "112828411673566774844",
-      "id": 8
+      "id": 4
     }
   ]
 }
