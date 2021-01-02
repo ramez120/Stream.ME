@@ -1,25 +1,11 @@
 {
   "streams": [
-    {
-      "title": "live ",
-      "description": "i am live",
-      "id": 1
-    },
-    {
-      "title": "ramez",
-      "description": "ramez is live",
-      "id": 2
-    },
-    {
-      "title": "live 3",
-      "description": "yaay",
-      "id": 3
-    },
+  
     {
       "title": "new",
-      "description": "this is the newest stream",
+      "description": "this is a new stream",
       "userId": "112828411673566774844",
-      "id": 4
+      "id": 5
     }
   ]
 }
