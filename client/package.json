@@ -11,6 +11,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.5.3",
     "cors": "^2.8.5",
+    "flv.js": "^1.5.0",
     "lodash": "^4.17.20",
     "proxy": "http://localhost:3001",
     "react": "^17.0.1",
